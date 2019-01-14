@@ -1,6 +1,17 @@
 sent = En el principio de los tiempos, se reunieron varios demonios para llevar adelante una travesura
 
-^Yma/yma<adj>/yma<adv>$^,/,<cm>$ ^ara/ara<v><tv><pres>/ára<n>/a<prn><p1><sg><nom>+ara<v><tv><pres>/a<prn><p1><sg><nom>+ára<n>/re<prn><p2><sg><nom>+ara<v><tv><pres>/re<prn><p2><sg><nom>+ára<n>$ ^ypýpe/ypy<adj>+pe<post>/ypy<n>+pe<post>/ypy<v><tv><pres>+pe<post>/ypýpe<adv>/a<prn><p1><sg><nom>+ypy<n>+pe<post>/a<prn><p1><sg><nom>+ypy<v><tv><pres>+pe<post>/re<prn><p2><sg><nom>+ypy<n>+pe<post>/re<prn><p2><sg><nom>+ypy<v><tv><pres>+pe<post>/y<n><incp>+pype<v><tv><pres>/a<prn><p1><sg><nom>+y<n><incp>+pype<v><tv><pres>/re<prn><p2><sg><nom>+y<n><incp>+pype<v><tv><pres>$^,/,<cm>$ ^oñembyaty/o<prn><pos><p3><sg>+ñembyaty<n>/o<prn><p3><pl><nom>+ñembyaty<n>/o<prn><p3><pl><nom>+ñembyaty<v><iv><pres>/o<prn><p3><sg><nom>+ñembyaty<n>/o<prn><p3><sg><nom>+ñembyaty<v><iv><pres>/o<prn><pos><p3><sg>+ñemby<n><incp>+aty<v><tv><pres>/o<prn><pos><p3><sg>+ñe<n><incp>+mbyaty<v><tv><pres>/o<prn><p3><pl><nom>+ñemby<n><incp>+aty<v><tv><pres>/o<prn><p3><pl><nom>+ñe<n><incp>+mbyaty<v><tv><pres>/o<prn><p3><sg><nom>+ñemby<n><incp>+aty<v><tv><pres>/o<prn><p3><sg><nom>+ñe<n><incp>+mbyaty<v><tv><pres>$ ^hikuái/hikuái<aux><impf><p3><pl>$ ^heta/heta<adj>/heta<adj><ind>/heta<adv>$ ^moñái/moña<v><tv><pres>+i<neg>/moñái<adj>/moñái<n>/a<prn><p1><sg><nom>+moña<v><tv><pres>+i<neg>/a<prn><p1><sg><nom>+moñái<n>/moña<n><incp>+ĩ<v><iv><pres>+i<neg>/re<prn><p2><sg><nom>+moña<v><tv><pres>+i<neg>/re<prn><p2><sg><nom>+moñái<n>/a<prn><p1><sg><nom>+moña<n><incp>+ĩ<v><iv><pres>+i<neg>/re<prn><p2><sg><nom>+moña<n><incp>+ĩ<v><iv><pres>+i<neg>$ ^oñembojaru/o<prn><pos><p3><sg>+ñembojaru<n>/o<prn><p3><pl><nom>+ñembojaru<n>/o<prn><p3><sg><nom>+ñembojaru<n>/o<prn><pos><p3><sg>+ñemboja<n><incp>+ru<v><tv><pres>/o<prn><pos><p3><sg>+ñe<n><incp>+mbojaru<v><tv><pres>/o<prn><p3><pl><nom>+ñemboja<n><incp>+ru<v><tv><pres>/o<prn><p3><pl><nom>+ñe<n><incp>+mbojaru<v><tv><pres>/o<prn><p3><sg><nom>+ñemboja<n><incp>+ru<v><tv><pres>/o<prn><p3><sg><nom>+ñe<n><incp>+mbojaru<v><tv><pres>$ ^haĝua/*haĝua$ ^yvyporakuérare/yvypóra<n><incp>+kuera<v><iv><pres>+re<post>/a<prn><p1><sg><nom>+yvypóra<n><incp>+kuera<v><iv><pres>+re<post>/re<prn><p2><sg><nom>+yvypóra<n><incp>+kuera<v><iv><pres>+re<post>$
+^Yma/yma<adv>$
+^,/,<cm>$ 
+^ara/ára<n>$ 
+^ypýpe/ypy<n>+pe<post>$
+^,/,<cm>$ 
+^oñembyaty/o<prn><p3><pl><nom>+je<pass>+mbyaty<v><tv><pres>$
+^hikuái/hikuái<aux><impf><p3><pl>$ 
+^heta/heta<adv>$ 
+^moñái/moñái<n>$ 
+^oñembojaru/o<prn><pos><p3><sg>+je<pass>+mbojaru<v><tv><pres>$ 
+^haĝua/*haĝua$ 
+^yvyporakuérare/yvypóra<n>+kuéra<det><pl>+re<post>$
 ^./.<sent>$
 
 sent = Uno de ellos dijo: “Deberíamos eliminar algo en los hombres. Ahora bien, ¿qué les cercenaremos?”
