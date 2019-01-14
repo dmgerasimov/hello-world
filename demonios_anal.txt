@@ -10,49 +10,62 @@ sent = En el principio de los tiempos, se reunieron varios demonios para llevar 
 ^heta/heta<adv>$ 
 ^moñái/moñái<n>$ 
 ^oñembojaru/o<prn><pos><p3><sg>+je<pass>+mbojaru<v><tv><pres>$ 
-^haĝua/*haĝua$ 
+^haĝua/haguã<post>$
 ^yvyporakuérare/yvypóra<n>+kuéra<det><pl>+re<post>$
 ^./.<sent>$
 
 sent = Uno de ellos dijo: “Deberíamos eliminar algo en los hombres. Ahora bien, ¿qué les cercenaremos?”
 
-^Peteîva/peteĩ<adj><ind>+va<subs><dem>$ 
-^osê/*osê$ 
+^Peteîva/peteĩ<prn><ind>+va<subs><dem>$ 
+^osê/*o<prn><pos><p3><sg>+sẽ<v><iv><pres>$ 
 ^he’i/heʼi<v><tv><p3><sg><pres>$
 ^:/:<sent>$ 
 ^“/“<lquot>$
 
-^Jahekyi/ja<prn><p1><pl><nom>+hekýi<v><tv><pres>$’^arâmo/*arâmo$’^â/*â$ ^peteî/peteĩ<prn><ind>/peteĩ<adj>/peteĩ<num>/pe<prn><p2><pl><nom>+te<n><incp>+ĩ<v><iv><pres>/pete<n><incp>+ĩ<v><iv><pres>/a<prn><p1><sg><nom>+pete<n><incp>+ĩ<v><iv><pres>/re<prn><p2><sg><nom>+pete<n><incp>+ĩ<v><iv><pres>$ ^mba’e/mbaʼe<prn><itg>/mbaʼe<cnjcoo>/mbaʼe<n>/a<prn><p1><sg><nom>+mbaʼe<n>/re<prn><p2><sg><nom>+mbaʼe<n>$ ^yvyporakuéragui/yvypóra<n><incp>+kuera<v><iv><pres>+gui<post>/a<prn><p1><sg><nom>+yvypóra<n><incp>+kuera<v><iv><pres>+gui<post>/re<prn><p2><sg><nom>+yvypóra<n><incp>+kuera<v><iv><pres>+gui<post>$^./.<sent>$ ^Áĝa/*Áĝa$^,/,<cm>$ ^mba’épa/mbaʼe<prn><itg>+pa<qst>/mbaʼe<sub>+pa<v><iv><pres>/mbaʼépa<prn><itg>/a<prn><p1><sg><nom>+mbaʼe<sub>+pa<v><iv><pres>/mbaʼe<n><incp>+pa<v><iv><pres>/re<prn><p2><sg><nom>+mbaʼe<sub>+pa<v><iv><pres>/a<prn><p1><sg><nom>+mbaʼe<n><incp>+pa<v><iv><pres>/re<prn><p2><sg><nom>+mbaʼe<n><incp>+pa<v><iv><pres>$ ^ikatu/i<prn><pos><p3><sg>+katu<n>/i<prn><p3><pl><nom>+katu<n>/i<prn><p3><pl><nom>+katu<v><iv><pres>/i<prn><p3><sg><nom>+katu<n>/i<prn><p3><sg><nom>+katu<v><iv><pres>/ikatu<vaux><iv><pres>/ikatu<adv>/ikatu<v><iv><pres>$ ^jahekýi/ja<prn><p1><pl><nom>+hekýi<v><tv><pres>/ja<prn><p1><pl><nom>+he<n><incp>+ky<v><iv><pres>+i<neg>/ja<n><incp>+hekýi<v><tv><pres>/a<prn><p1><sg><nom>+ja<n><incp>+hekýi<v><tv><pres>/re<prn><p2><sg><nom>+ja<n><incp>+hekýi<v><tv><pres>$ ^chuguikuéra/*chuguikuéra$
+$^Jahekyi’arâmo’â/ja<prn><p1><pl><nom>+hekýi<v><tv><pres>+aʼrã%<fti%>+mo’ã<fti>$ FIXME!
+^peteî/peteĩ<prn><ind>$ 
+^mba’e/mbaʼe<n>$ 
+^yvyporakuéragui/yvypóra<n>+kuéra<det><pl>+gui<post>$
+^./.<sent>$ 
+
+^Áĝa/ágã<adv>$
+^,/,<cm>$ 
+^mba’épa/mbaʼe<prn><itg>+pa<qst>$ 
+^ikatu/ikatu<vaux><iv><pres>$ 
+^jahekýi/ja<prn><p1><pl><nom>+hekýi<v><tv><pres>$ 
+^chuguikuéra/haʼe%<prn%>%<pers%>%<p3%>%<sg%>%+gui%<post%>kuéra$ FIXME!
 ^”/”<rquot>$
 ^./.<sent>$
 
 sent = Después de mucho meditar, otro de ellos dijo: “¡Ya sé!, vamos a cercenarles la felicidad, pero el incoveniente es dónde esconderla para que no la puedan encontrar...”
 
 ^Heta/heta<adv>$ 
-^oñepy’amongeta/o<prn><pos><p3><sg>+ñe<n><incp>+pyʼamongeta<v><tv><pres>/o<prn><p3><pl><nom>+ñe<n><incp>+pyʼamongeta<v><tv><pres>/o<prn><p3><sg><nom>+ñe<n><incp>+pyʼamongeta<v><tv><pres>$ 
-^rire/rire<adv>/ri<post>+re<post>$
+^oñepy’amongeta/o<prn><pos><p3><sg>+je<pass>+pyʼamongeta<v><tv><pres>$ 
+^rire/rire<adv>$
 ^,/,<cm>$ 
 ^ambue/ambue<adj><ind>
-^osê/*osê$ 
-^he’i/heʼi<v><tv><p3><pl><pres>/heʼi<v><tv><p3><sg><pres>$ 
+^osê/o<prn><p3><pl><nom>+sẽ<v><iv><pres>$ 
+^he’i/heʼi<v><tv><p3><sg><pres>$ 
+^:/:<sent>$
+
 ^“/“<lquot>$
-^Aikuaáma/a<prn><p1><sg><nom>+kuaa<v><tv><pres>+ma<adv>/ai<n><incp>+kuaa<v><tv><pres>+ma<adv>/a<prn><p1><sg><nom>+ai<n><incp>+kuaa<v><tv><pres>+ma<adv>/re<prn><p2><sg><nom>+ai<n><incp>+kuaa<v><tv><pres>+ma<adv>$
+^Aikuaáma/a<prn><p1><sg><nom>+kuaa<v><tv><pres>+ma<adv>$
 ^,/,<cm>$ 
-^jahekýita/ja<prn><p1><pl><nom>+hekýi<v><tv>+ta<fti>/ja<n><incp>+hekýi<v><tv>+ta<fti>/a<prn><p1><sg><nom>+ja<n><incp>+hekýi<v><tv>+ta<fti>/re<prn><p2><sg><nom>+ja<n><incp>+hekýi<v><tv>+ta<fti>$ 
-^chuguikuéra/*chuguikuéra$ 
-^vy’apavê/*vy’apavê$
+^jahekýita/ja<prn><p1><pl><nom>+hekýi<v><tv>+ta<fti>$ 
+^chuguikuéra/haʼe%<prn%>%<pers%>%<p3%>%<sg%>%+gui%<post%>kuéra$ FIXME! 
+^vy’apavê/vyʼapavẽ<n>$
 ^./.<sent>$ 
 
-^Áĝa/*Áĝa$ 
-^pe/pe<prn><dem><sg>/pe<adj>/pe<adj><dem><sg>$ 
+^Áĝa/ágã<adv>$ 
+^pe/pe<prn><dem><sg>$ 
 ^che/ché<prn><pers><p1><sg>$ 
-^ndaikuaáivango/*ndaikuaáivango$ 
-^moôpa/*moôpa$ 
-^ñañomíta/ña<n><incp>+ñomi<v><tv>+ta<fti>/a<prn><p1><sg><nom>+ña<n><incp>+ñomi<v><tv>+ta<fti>/re<prn><p2><sg><nom>+ña<n><incp>+ñomi<v><tv>+ta<fti>$ 
-^ani/ani<adv><neg>/ani<n>/anĩ<adv>+i<neg>/a<prn><p1><sg><nom>+ani<n>/re<prn><p2><sg><nom>+ani<n>$ 
-^haĝua/*haĝua$ 
+^ndaikuaáivango/nd<neg>+a<prn><p1><sg><nom>+kuaa<v><tv><pres>+i<neg>+va<dem><subs>+ngo<nar>$ FIXME!
+^moôpa/moô<adv><itg>+pa<qst>$ 
+^ñañomíta/ña<prn><p1><pl><nom>+ñomi<v><tv>+ta<fti>$ 
+^ani/ani<adv><neg>$ 
+^haĝua/haguã<post>$ 
 ^ha’ekuéra/haʼekuéra<prn><pers><p3><pl>$ 
-^ojuhu/o<prn><p3><pl><nom>+juhu<v><tv><pres>/o<prn><p3><sg><nom>+juhu<v><tv><pres>$
+^ojuhu/o<prn><p3><pl><nom>+juhu<v><tv><pres>$
 ^…/…<sent>$
 ^”/”<rquot>$
 ^./.<sent>$
